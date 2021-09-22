@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#navbar{
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(210, 224, 197);
+    height: 6vh;
+    padding-top: 1.2rem;
+}
+input{
+    font-size: 1.5rem;
+    display: block;
+    margin: 13rem auto 1rem;
+}
+
+#output{
+    font-size: 1.4rem;
+    text-align: center;
+ 
+}
+#btn{
+   
+    display: block;
+    margin: 1rem auto 1rem;
+    font-size: 1.4rem;
+}
